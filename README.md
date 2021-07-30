@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Coding,gaming, and sports
 - 🌱 I’m currently learning ...Some programing
 - 💞️ I’m looking to collaborate on ...games and projects
-- 📫 How to reach me ...
+- 📫 How to reach me ...Just pull requests!
 
 <!---
 coolcloud5517/coolcloud5517 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
